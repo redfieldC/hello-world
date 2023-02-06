@@ -2,6 +2,3 @@ hello
 
 
 I am ameya
-
-
-Hi I have created branch called 'ameya'
